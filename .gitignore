@@ -1,2 +1,5 @@
 .env
 .env.gcp.yaml
+
+# Cache files
+*.rdb
